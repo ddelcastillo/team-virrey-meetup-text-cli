@@ -1,0 +1,8 @@
+Entrenadores, los invitamos cordialmente a la Hora Destacada de $pokemon_name el $tuesday_date en el Parque El Virrey de 6 a 7 PM. Durante esta hora exclusiva se activará el boost $bonus_description. Estaremos en la zona maximizando los spawns con cebos para que aprovechen cada oportunidad. 🎯
+
+Recuerden:
+❖ $pokemon_name es de tipo $type_info; activen su Mega de mayor meganivel del mismo tipo para obtener bonificaciones adicionales. 🍬
+❖ $bonus_details
+$mega_info❖ $shiny_text
+
+Nos vemos allí, Team Virrey. 🤝🏻 

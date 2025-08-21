@@ -1,0 +1,11 @@
+📊 RESUMEN DE POKÉMON
+
+🔸 Nombre: $pokemon_name (#$pokemon_id)
+🔸 Tipo: $type_info
+🔸 CP Máximo: $cp_level_40 CP (Nivel 40)
+
+📈 Estadísticas:
+• ATK: $base_attack | DEF: $base_defense | STA: $base_stamina
+
+💪 Progresión de CP:
+Nivel 20 → $cp_level_20 | Nivel 30 → $cp_level_30 | Nivel 40 → $cp_level_40 

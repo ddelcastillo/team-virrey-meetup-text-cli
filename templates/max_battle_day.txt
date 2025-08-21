@@ -1,0 +1,8 @@
+Entrenadores, los invitamos cordialmente al $max_type $pokemon_name Max Battle Day el $event_date en el Parque El Virrey de 2 a 5 PM.
+
+Recuerden:
+❖ $max_type $pokemon_name es de tipo $type_info; activen su Mega de mayor meganivel del mismo tipo para obtener bonificaciones adicionales. 🍬
+❖ 💯 CP: $cp_level_20, no hay boost por clima. 🚫☁️
+❖ $shiny_text
+
+El arranque será en Colmenares, de ahí se define la ruta Max según la mejor distribución de Nodos Max. Nos vemos allí, Team Virrey. ✌🏻 

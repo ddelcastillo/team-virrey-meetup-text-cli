@@ -1,0 +1,8 @@
+Entrenadores, los invitamos cordialmente a la hora de Batallas Max con $pokemon_name Dinamax el $monday_date en el Parque El Virrey de 6-7 PM.
+
+Recuerden:
+❖ $pokemon_name es de tipo $type_info; activen su Mega de mayor meganivel del mismo tipo para obtener bonificaciones adicionales. 🍬
+❖ 💯 CP: $cp_level_20, no hay boost por clima. 🚫☁️
+❖ $shiny_text
+
+Nos vemos allí, Team Virrey. ✌🏻
